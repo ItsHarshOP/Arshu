@@ -18,8 +18,8 @@ Your beloved:-
 
 [LOVELY DEVS](https://t.me/LOVELYDEVS)
 
-## Owner of Lovely project is [🇷 ØΜΔŇŦIĆ❤️ 🇸 ĦΔ¥ΔŘ 🇹 ỮŞĦΔŘ](https://telegram.me/Tushar204)
-[![Tushar](https://telegra.ph/file/2fee58297ffd8632f49e9.jpg)](https://telegram.me/TUSHAR204)
+## Owner of Arshu project is [𝐌𝐚𝐠𝐢𝐜𝐢𝐚𝐧 𝐪𝐮𝐞𝐞𝐧 𝐒𝐡𝐨𝐧𝐚](https://telegram.me/Tushar204)
+[![Tushar](https://telegra.ph/file/2fee58297ffd8632f49e9.jpg)](https://telegram.me/the_magicianqueen)
 
 
 ## CREDITS
