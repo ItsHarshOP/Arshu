@@ -1,6 +1,6 @@
-# LOVELY GROUP MANAGER BOT
+# Arshu GROUP MANAGER BOT
 
-LOVELY IS ADVANCE GROUP MANAGER BOT FOR GEEKS 
+Arshu IS ADVANCE GROUP MANAGER BOT FOR GEEKS 
 
 ## 𝗗𝗘𝗣𝗟𝗢𝗬 
 
@@ -24,17 +24,5 @@ Your beloved:-
 
 ## CREDITS
 
-- [Mr-Dark-Prince](https://github.com/Mr-Dark-Prince)
-▪️ [PaulSonOfLars](https://github.com/PaulSonOfLars/tgbot)
-▪️ [Saitama](https://github.com/AnimeKaizoku)
-▪️ [Loli-Killer](https://github.com/Loli-Killer)
-▪️ [RealAkito](https://github.com/RealAkito)
-▪️ [MrYacha](https://github.com/MrYacha)
-▪️ [Shreyansh](https://github.com/okay-retard)
-▪️ [Ayush](https://github.com/MissJuliaRobot/MissJuliaRobot)
-▪️ [Inuka Asith](https://github.com/inukaasith)
-▪️ [Amarnath c](https://github.com/Amarnathcdj)
-▪️ [Thehamkercat](https://github.com/thehamkercat)
-▪️ [DragSama](https://github.com/DragSama)
-▪️ [Shrimadhav](https://github.com/SpEcHiDe)
-▪️ [Ayra Hikari](https://github.com/AyraHikari)
+- [Mr Harsh](https://t.me/the_silentsmile)
+▪️ [PaulSonOfLars](https://t.me/the_magicianqueen)
