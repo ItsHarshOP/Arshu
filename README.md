@@ -19,7 +19,7 @@ Your beloved:-
 [LOVELY DEVS](https://t.me/LOVELYDEVS)
 
 ## Owner of Arshu project is [𝐌𝐚𝐠𝐢𝐜𝐢𝐚𝐧 𝐪𝐮𝐞𝐞𝐧 𝐒𝐡𝐨𝐧𝐚](https://telegram.me/Tushar204)
-[![Tushar](https://telegra.ph/file/2fee58297ffd8632f49e9.jpg)](https://telegram.me/the_magicianqueen)
+[![Tushar](https://te.legra.ph/file/2f7ef18b35ee5bb59f130.jpg)](https://telegram.me/the_magicianqueen)
 
 
 ## CREDITS
