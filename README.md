@@ -24,5 +24,5 @@ Your beloved:-
 
 ## CREDITS
 
-- [Mr Harsh](https://t.me/the_silentsmile)
-▪️ [PaulSonOfLars](https://t.me/the_magicianqueen)
+- [Mr Harsh](https://telegram.me/the_silentsmile)
+▪️ [Shona](https://telegram.me/the_magicianqueen)
