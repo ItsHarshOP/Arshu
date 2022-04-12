@@ -6,7 +6,7 @@ ARSHU IS ADVANCE GROUP MANAGER BOT FOR GEEKS
 
 CLICK ON BELOW IMAGE TO DEPLOY ON HEROKU 
 
-[![DEPLOY](https://te.legra.ph/file/e3fc92ebf8ece16be2181.jpg)](https://heroku.com/deploy?template=https://github.com/attitudeking1/LOVELYX)
+[![DEPLOY](https://te.legra.ph/file/e3fc92ebf8ece16be2181.jpg)](https://heroku.com/deploy?template=https://github.com/ItsHarshOP/Arshu)
 
 Keep supporting us 😊
 
